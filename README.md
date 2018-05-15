@@ -11,7 +11,7 @@ We'll introduce components, explain why they're important, and look at a few exa
 
 ## Components?
 
-Let's examine a high level overview of what a React component is before we implement one. The official [React documentation on components][react-component] says it best:
+Let's examine a high level overview of what a React component is before we implement one. The official [React documentation on components][react-component] says it best:sada
 
 >Components let you split the UI into independent, reusable pieces, and think
 >about each piece in isolation.
